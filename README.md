@@ -5,7 +5,7 @@ Terraform Infra to deploy Jenkins Server on AWS.
 3. Maintaining the docker compose in github repo and cloning the docker compose in the instance to launch Jenkins Server
 
 
-Terraform code for creating a Managed Kubernetes Cluster and deploying Authentik Application.
+Terraform code for creating a Managed Kubernetes Cluster(EKS) and deploying Authentik Application.
 
 1. Data Persistence & backups are taken care. 
 2. Database and Application are running in separate pods.
